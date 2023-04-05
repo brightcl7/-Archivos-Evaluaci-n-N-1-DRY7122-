@@ -1,0 +1,5 @@
+nombre1 = str(input("Ingrese el primer nombre : "))
+nombre2 = str(input("Ahora, ingrese el segundo nombre : "))
+nombre3 = str(input("Ahora, ingrese el tercer nombre : "))
+print("\nEvaluación N°1, Programación y redes virtualizadas. \n")
+print("Integrantes :", nombre1, ",", nombre2, "y", nombre3, ".")
